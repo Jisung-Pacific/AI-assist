@@ -1,11 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.16">
   <diagram name="Page-1" id="Hy2vvEPhiLFZXEriCHXn">
-    <mxGraphModel dx="1102" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="684" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pmV6GeLHaMZTZCY4r49u-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="100" y="110" width="80" height="80" as="geometry" />
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-2" value="sign in - invitation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-4" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;get cache?&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;{&lt;/div&gt;invitation code: 123456&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-5" value="sign up - register - signup" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-6" value="&lt;div&gt;get &amp;nbsp;to check duplication&lt;/div&gt;&lt;div&gt;email : account@email.com&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;post create&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;email: account@email.com,&lt;div style=&quot;font-size: 8px;&quot;&gt;password: qwer1234!Q&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-7" value="&lt;div&gt;get cache?&lt;br&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;email verification code: 654321&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-8" value="sign up - detail" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-9" value="&lt;div&gt;post create&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;First name: john,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Last name: Citizen,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Sex: Male,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;DoB: 08 Aug 2000,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;Mobile : 61 0401 111 222.&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-10" value="&lt;div&gt;get cache?&lt;br&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;mobile verification code: 343434&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-11" value="sign up - PhotoId" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-12" value="&lt;div&gt;post create&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;typeId : Driver license,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;document number : 213213,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;photoImgUrl: https:/fjdsalfnjdksal&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-14" value="sign in - PhotoId" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-15" value="&lt;div&gt;post create&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;typeId : Driver license,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;document number : 213213,&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;photoImgUrl&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-16" value="&lt;div&gt;get&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;mobile verification code: 343434&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-17" value="sign up - cancellation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-18" value="&lt;div&gt;get&amp;nbsp;&lt;/div&gt;&lt;div&gt;email : account@email.com&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;post delete&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;email: account@email.com,&lt;div style=&quot;font-size: 8px;&quot;&gt;password: qwer1234!Q&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div&gt;First name: john,&lt;/div&gt;&lt;div&gt;Last name: Citizen,&lt;/div&gt;&lt;div&gt;Sex: Male,&lt;/div&gt;&lt;div&gt;DoB: 08 Aug 2000,&lt;/div&gt;&lt;div&gt;Mobile : 61 0401 111 222.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-20" value="sign in" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="750" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pmV6GeLHaMZTZCY4r49u-21" value="&lt;div&gt;get&lt;/div&gt;{&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;email: account@email.com,&lt;div&gt;password: qwer1234!Q&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="750" y="110" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

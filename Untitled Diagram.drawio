@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="Hy2vvEPhiLFZXEriCHXn">
-    <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2293" dy="2098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="310" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pmV6GeLHaMZTZCY4r49u-10" value="&lt;div&gt;get cache?&lt;br&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;mobile verification code: 343434&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmV6GeLHaMZTZCY4r49u-11" value="sign up - PhotoId" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="120" height="50" as="geometry" />
@@ -114,6 +114,215 @@
         </mxCell>
         <mxCell id="pmV6GeLHaMZTZCY4r49u-47" value="&lt;div&gt;Post Create&lt;/div&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;div&gt;photoImgUrl:fhdjsaiflhdjsailf&lt;/div&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="1030" y="110" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-1" value="&lt;div&gt;backend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-3" target="NYVM5cqyzxNznNuhI6mn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;audio entity&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1040" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-5" target="NYVM5cqyzxNznNuhI6mn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-5" target="NYVM5cqyzxNznNuhI6mn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-5" target="NYVM5cqyzxNznNuhI6mn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-5" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;audio.service&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-1040" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-7" value="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#c77dba;font-style:italic;&quot;&gt;RapidOralFluidDrugScreen&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-1040" width="256" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-8" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#c77dba;font-style:italic;&quot;&gt;RapidUrineDrugScreen&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-980" width="256" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-9" value="&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#c77dba;font-style:italic;&quot;&gt;MedicalTest&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-920" width="256" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;enum &lt;/span&gt;AudioCodec {&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// this enum MUST be synchronized with fluttersound/AudioInterface.java&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // and ios/Classes/FlutterSoundPlugin.h&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / This is the default codec. If used&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / Flutter Sound will use the files extension to guess the codec.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / If the file extension doesn&#39;t match a known codec then&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / Flutter Sound will throw an exception in which case you need&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / pass one of the known codec.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;defaultCodec&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / AAC codec in an ADTS container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;aacADTS&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / OPUS in an OGG container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;opusOGG&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Apple encapsulates its bits in its own special envelope&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / .caf instead of a regular ogg/opus (.opus).&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / This is completely stupid, this is Apple.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;opusCAF&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / For those who really insist about supporting MP3. Shame on you !&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;mp3&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / VORBIS in an OGG container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;vorbisOGG&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, without envelope&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, which is a Wave file.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16WAV&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, which is a AIFF file&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16AIFF&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, which is a CAF file&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16CAF&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / FLAC&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;flac&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / AAC in a MPEG4 container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;aacMP4&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / AMR-NB&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;amrNB&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// AMR-WB&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;amrWB&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Raw PCM Linear 8&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm8&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Raw PCM with 32 bits Floating Points&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcmFloat32&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / PCM with a WebM format&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcmWebM&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Opus with a WebM format&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;opusWebM&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Vorbis with a WebM format&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;vorbisWebM&lt;/span&gt;,&lt;br&gt;}&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" link="&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#cf8e6d;&quot;&gt;enum &lt;/span&gt;AudioCodec {&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// this enum MUST be synchronized with fluttersound/AudioInterface.java&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // and ios/Classes/FlutterSoundPlugin.h&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / This is the default codec. If used&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / Flutter Sound will use the files extension to guess the codec.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / If the file extension doesn&#39;t match a known codec then&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / Flutter Sound will throw an exception in which case you need&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / pass one of the known codec.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;defaultCodec&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / AAC codec in an ADTS container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;aacADTS&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / OPUS in an OGG container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;opusOGG&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Apple encapsulates its bits in its own special envelope&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / .caf instead of a regular ogg/opus (.opus).&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  // / This is completely stupid, this is Apple.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;opusCAF&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / For those who really insist about supporting MP3. Shame on you !&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;mp3&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / VORBIS in an OGG container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;vorbisOGG&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, without envelope&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, which is a Wave file.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16WAV&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, which is a AIFF file&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16AIFF&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Linear 16 PCM, which is a CAF file&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm16CAF&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / FLAC&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;flac&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / AAC in a MPEG4 container&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;aacMP4&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / AMR-NB&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;amrNB&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// AMR-WB&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;amrWB&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Raw PCM Linear 8&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcm8&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Raw PCM with 32 bits Floating Points&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcmFloat32&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / PCM with a WebM format&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;pcmWebM&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Opus with a WebM format&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;opusWebM&lt;/span&gt;,&lt;br&gt;&lt;br&gt;  &lt;span style=&quot;color:#7a7e85;&quot;&gt;// / Vorbis with a WebM format&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#7a7e85;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c77dbb;font-style:italic;&quot;&gt;vorbisWebM&lt;/span&gt;,&lt;br&gt;}&lt;br&gt;&lt;/pre&gt;&lt;/div&gt;" id="NYVM5cqyzxNznNuhI6mn-13">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-610" y="-1140" width="560" height="1100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-14" target="NYVM5cqyzxNznNuhI6mn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-14" value="CA" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-15" target="NYVM5cqyzxNznNuhI6mn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-15" target="NYVM5cqyzxNznNuhI6mn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-15" value="&lt;div&gt;Middleware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-18" target="NYVM5cqyzxNznNuhI6mn-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-18" value="BE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-19" target="NYVM5cqyzxNznNuhI6mn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-19" value="upload" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-21" value="S3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-18" target="NYVM5cqyzxNznNuhI6mn-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-640" as="sourcePoint" />
+            <mxPoint x="130" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-19" target="NYVM5cqyzxNznNuhI6mn-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-610" as="sourcePoint" />
+            <mxPoint x="190" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="-530" as="sourcePoint" />
+            <mxPoint x="180" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-44" target="NYVM5cqyzxNznNuhI6mn-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="-675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-44" value="CM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="NYVM5cqyzxNznNuhI6mn-44" source="NYVM5cqyzxNznNuhI6mn-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="-700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-48" target="NYVM5cqyzxNznNuhI6mn-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-48" value="CA" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-51" target="NYVM5cqyzxNznNuhI6mn-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-51" target="NYVM5cqyzxNznNuhI6mn-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-51" value="&lt;div&gt;Middleware&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-53" target="NYVM5cqyzxNznNuhI6mn-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-53" value="BE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-55" target="NYVM5cqyzxNznNuhI6mn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-55" value="upload" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-56" value="S3" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-53" target="NYVM5cqyzxNznNuhI6mn-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="-640" as="sourcePoint" />
+            <mxPoint x="510" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-55" target="NYVM5cqyzxNznNuhI6mn-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-610" as="sourcePoint" />
+            <mxPoint x="570" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-530" as="sourcePoint" />
+            <mxPoint x="560" y="-490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-61" target="NYVM5cqyzxNznNuhI6mn-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="-675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-61" value="CM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="555" y="-760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-51" target="NYVM5cqyzxNznNuhI6mn-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="-700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-63" value="AI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-584" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-53" target="NYVM5cqyzxNznNuhI6mn-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="-530" as="sourcePoint" />
+            <mxPoint x="570" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-63" target="NYVM5cqyzxNznNuhI6mn-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="-585" as="sourcePoint" />
+            <mxPoint x="590" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-66" value="DB" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NYVM5cqyzxNznNuhI6mn-66" source="NYVM5cqyzxNznNuhI6mn-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="-670" as="sourcePoint" />
+            <mxPoint x="590" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-66" target="NYVM5cqyzxNznNuhI6mn-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="-685" as="sourcePoint" />
+            <mxPoint x="610" y="-695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.091;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-55" target="NYVM5cqyzxNznNuhI6mn-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="593.04" y="-466" as="sourcePoint" />
+            <mxPoint x="666.9599999999998" y="-486.70000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="667" y="-515" />
+              <mxPoint x="667" y="-535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="NYVM5cqyzxNznNuhI6mn-63" target="NYVM5cqyzxNznNuhI6mn-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="-561" as="sourcePoint" />
+            <mxPoint x="600" y="-572" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-72" value="없는 오디오파일 일 경우&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;시간이 너무 오래 걸리는 경우&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-775" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NYVM5cqyzxNznNuhI6mn-73" value="없는 오디오파일 일 경우&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;시간이 너무 오래 걸리는 경우&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-650" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

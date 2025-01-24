@@ -264,11 +264,6 @@
             <mxPoint x="675" y="-675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NYVM5cqyzxNznNuhI6mn-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NYVM5cqyzxNznNuhI6mn-61" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645.5714285714289" y="-770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NYVM5cqyzxNznNuhI6mn-61" value="CM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="555" y="-760" width="120" height="50" as="geometry" />
         </mxCell>
@@ -368,7 +363,7 @@
         <mxCell id="QdOcjhZw3ip5gdcE6jKi-6" value="medical-test.controller.ts" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="1241" y="-540" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QdOcjhZw3ip5gdcE6jKi-8" value="medical-sample.service.ts&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;updateMedicalSampleById&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;createMedicalRefusalData&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="QdOcjhZw3ip5gdcE6jKi-8" value="medical-sample.service.ts&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;updateMedicalSampleById&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;createMedicalRefusalData&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-630" width="240" height="80" as="geometry" />
         </mxCell>
       </root>

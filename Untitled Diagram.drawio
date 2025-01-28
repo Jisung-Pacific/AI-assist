@@ -336,7 +336,10 @@
         <mxCell id="QdOcjhZw3ip5gdcE6jKi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QdOcjhZw3ip5gdcE6jKi-1" target="QdOcjhZw3ip5gdcE6jKi-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QdOcjhZw3ip5gdcE6jKi-1" value="audio.entity.ts" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QdOcjhZw3ip5gdcE6jKi-1" target="FP3zb22KfRIISsaZAf48-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QdOcjhZw3ip5gdcE6jKi-1" value="audio.service.ts" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="1160" y="-700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QdOcjhZw3ip5gdcE6jKi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QdOcjhZw3ip5gdcE6jKi-2" target="QdOcjhZw3ip5gdcE6jKi-1" edge="1">
@@ -392,6 +395,12 @@
         </mxCell>
         <mxCell id="FP3zb22KfRIISsaZAf48-8" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;uploadFile&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;generatePDFByTemplateUsingEJS&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="1315" y="-260" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FP3zb22KfRIISsaZAf48-11" value="invalid-collection-report.service.ts&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;getAudioRecords&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-860" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FP3zb22KfRIISsaZAf48-12" value="databaseposgres.service.ts&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addDoc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="-700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

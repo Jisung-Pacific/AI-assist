@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.9">
   <diagram name="Page-1" id="Hy2vvEPhiLFZXEriCHXn">
     <mxGraphModel dx="1853" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry x="1030" y="110" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NYVM5cqyzxNznNuhI6mn-1" value="&lt;div&gt;backend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-1110" width="120" height="50" as="geometry" />
+          <mxGeometry x="40" y="-1120" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NYVM5cqyzxNznNuhI6mn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NYVM5cqyzxNznNuhI6mn-3" target="NYVM5cqyzxNznNuhI6mn-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -336,7 +336,7 @@
         <mxCell id="QdOcjhZw3ip5gdcE6jKi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="QdOcjhZw3ip5gdcE6jKi-1" target="QdOcjhZw3ip5gdcE6jKi-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QdOcjhZw3ip5gdcE6jKi-1" target="FP3zb22KfRIISsaZAf48-12">
+        <mxCell id="FP3zb22KfRIISsaZAf48-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="QdOcjhZw3ip5gdcE6jKi-1" target="FP3zb22KfRIISsaZAf48-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QdOcjhZw3ip5gdcE6jKi-1" value="audio.service.ts" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
@@ -369,37 +369,37 @@
         <mxCell id="QdOcjhZw3ip5gdcE6jKi-8" value="medical-sample.service.ts&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;updateMedicalSampleById&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;createMedicalRefusalData&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="1440" y="-630" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FP3zb22KfRIISsaZAf48-1" target="FP3zb22KfRIISsaZAf48-3">
+        <mxCell id="FP3zb22KfRIISsaZAf48-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FP3zb22KfRIISsaZAf48-1" target="FP3zb22KfRIISsaZAf48-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FP3zb22KfRIISsaZAf48-1" target="FP3zb22KfRIISsaZAf48-8">
+        <mxCell id="FP3zb22KfRIISsaZAf48-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FP3zb22KfRIISsaZAf48-1" target="FP3zb22KfRIISsaZAf48-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-1" value="file-manager.service.ts&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;getUploadedFile&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-1" value="file-manager.service.ts&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;getUploadedFile&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="1140" y="-362.5" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FP3zb22KfRIISsaZAf48-2" target="FP3zb22KfRIISsaZAf48-3">
+        <mxCell id="FP3zb22KfRIISsaZAf48-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FP3zb22KfRIISsaZAf48-2" target="FP3zb22KfRIISsaZAf48-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-2" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-2" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="1610" y="-380" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-3" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;uploadFile&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;generatePDFByTemplateUsingEJS&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-3" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;uploadFile&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;generatePDFByTemplateUsingEJS&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="1315" y="-380" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FP3zb22KfRIISsaZAf48-7" target="FP3zb22KfRIISsaZAf48-8">
+        <mxCell id="FP3zb22KfRIISsaZAf48-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FP3zb22KfRIISsaZAf48-7" target="FP3zb22KfRIISsaZAf48-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-7" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-7" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="1610" y="-270" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-8" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;uploadFile&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;generatePDFByTemplateUsingEJS&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-8" value="collectionreporthistory.entity.ts&lt;div&gt;path&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;uploadFile&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(86, 168, 245);&quot;&gt;generatePDFByTemplateUsingEJS&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="1315" y="-260" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-11" value="invalid-collection-report.service.ts&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;getAudioRecords&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-11" value="invalid-collection-report.service.ts&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;background-color:#1e1f22;color:#bcbec4&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#56a8f5;&quot;&gt;getAudioRecords&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="1470" y="-860" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FP3zb22KfRIISsaZAf48-12" value="databaseposgres.service.ts&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addDoc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="FP3zb22KfRIISsaZAf48-12" value="databaseposgres.service.ts&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;addDoc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="1315" y="-700" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

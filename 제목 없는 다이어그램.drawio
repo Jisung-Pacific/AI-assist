@@ -1,177 +1,198 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="페이지-1" id="lsmF7glBvUfCy3_ZdIS1">
-    <mxGraphModel dx="1479" dy="1596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JbX5V0x0gcHXLJH44q79-1" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;BugScheduleBacklog&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-1" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;BugScheduleBacklog&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-2" target="JbX5V0x0gcHXLJH44q79-1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-2" target="JbX5V0x0gcHXLJH44q79-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-2" target="JbX5V0x0gcHXLJH44q79-41">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-2" target="JbX5V0x0gcHXLJH44q79-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-2" value="Asana -&amp;nbsp;&lt;div&gt;Bug schedule -&lt;/div&gt;&lt;div&gt;BugScheduleBacklog&lt;/div&gt;&lt;div&gt;&lt;b&gt;if it&#39;s high priority&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-2" value="Asana -&amp;nbsp;&lt;div&gt;Bug schedule -&lt;/div&gt;&lt;div&gt;BugScheduleBacklog&lt;/div&gt;&lt;div&gt;&lt;b&gt;if it&#39;s high priority&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-4" target="JbX5V0x0gcHXLJH44q79-2">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-4" target="JbX5V0x0gcHXLJH44q79-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-4" value="Asana -&amp;nbsp;&lt;div&gt;Bug schedule -&lt;/div&gt;&lt;div&gt;Backlog&lt;/div&gt;&lt;div&gt;&lt;b&gt;if it&#39;s medium or low&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-4" value="Asana -&amp;nbsp;&lt;div&gt;Bug schedule -&lt;/div&gt;&lt;div&gt;Backlog&lt;/div&gt;&lt;div&gt;&lt;b&gt;if it&#39;s medium or low&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-6" target="JbX5V0x0gcHXLJH44q79-33">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-6" target="JbX5V0x0gcHXLJH44q79-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-6" value="Tester -&lt;div&gt;test allocated task&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="210" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-6" value="Tester -&lt;div&gt;test allocated task&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-7" target="JbX5V0x0gcHXLJH44q79-8">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-7" target="JbX5V0x0gcHXLJH44q79-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-7" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;ProductionSchedule&lt;/div&gt;&lt;div&gt;Backlog&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-7" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;ProductionSchedule&lt;/div&gt;&lt;div&gt;Backlog&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-8" target="JbX5V0x0gcHXLJH44q79-11">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-1" target="JbX5V0x0gcHXLJH44q79-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-8" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;This week tasks&amp;nbsp;&lt;/div&gt;&lt;div&gt;for Dev&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-1" target="JbX5V0x0gcHXLJH44q79-8">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-16" target="JbX5V0x0gcHXLJH44q79-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-11" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Past week task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-16" value="feature -&lt;div&gt;Jake feature scheduling&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-13" target="JbX5V0x0gcHXLJH44q79-8">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-18" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-13" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Next week task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-18" value="1. checking rendering on page properly" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="667" y="285" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-16" target="JbX5V0x0gcHXLJH44q79-7">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-19" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-16" value="feature -&lt;div&gt;Jake feature scheduling&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="210" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-18" target="JbX5V0x0gcHXLJH44q79-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-18" value="1. checking rendering on page properly" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="285" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-19" target="JbX5V0x0gcHXLJH44q79-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-19" value="feature -&lt;div&gt;Jake assign testing scope&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-19" value="test planning -&lt;div&gt;Jake assign testing scope&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-20" target="JbX5V0x0gcHXLJH44q79-16">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-20" target="JbX5V0x0gcHXLJH44q79-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-20" target="JbX5V0x0gcHXLJH44q79-19">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-20" target="JbX5V0x0gcHXLJH44q79-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-20" value="&lt;div&gt;Jake&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-20" value="&lt;div&gt;Jake&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-350" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-25" target="JbX5V0x0gcHXLJH44q79-6">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-25" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-25" value="2. data linking in platform&lt;div&gt;e.g. btw CA and CM&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="375" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-25" value="2. data linking in platform&lt;div&gt;e.g. btw CA and CM&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="667" y="375" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-28" target="JbX5V0x0gcHXLJH44q79-6">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-28" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="350" as="targetPoint" />
+            <mxPoint x="437" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-28" value="3. matching feature with figma" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-28" value="3. matching feature with figma" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="667" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-31" target="JbX5V0x0gcHXLJH44q79-4">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-31" target="JbX5V0x0gcHXLJH44q79-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-31" value="create ticket with Template&lt;div&gt;1. checking device, env&lt;/div&gt;&lt;div&gt;2. writing step by step to replicate bug for dev&amp;nbsp;&lt;/div&gt;&lt;div&gt;3. add screenshot with red charactor description and video&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-31" value="create ticket with Template&lt;div&gt;1. checking device, env&lt;/div&gt;&lt;div&gt;2. writing step by step to replicate bug for dev&amp;nbsp;&lt;/div&gt;&lt;div&gt;3. add screenshot with red charactor description and video&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="313" y="520" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-33" target="JbX5V0x0gcHXLJH44q79-4">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-33" target="JbX5V0x0gcHXLJH44q79-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-33" value="&lt;b&gt;checking redundant task&lt;/b&gt; on asana" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-33" value="&lt;b&gt;checking redundant task&lt;/b&gt; on asana" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-35" target="JbX5V0x0gcHXLJH44q79-33">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-35" target="JbX5V0x0gcHXLJH44q79-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-35" value="1.&amp;nbsp; retrieve task on asana" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-35" value="1.&amp;nbsp; retrieve task on asana" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="290" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-36" target="JbX5V0x0gcHXLJH44q79-33">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-36" target="JbX5V0x0gcHXLJH44q79-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-36" value="2. ask Jisung&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="380" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-36" value="2. ask Jisung&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-39" target="JbX5V0x0gcHXLJH44q79-31">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-39" target="JbX5V0x0gcHXLJH44q79-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-39" value="modify Template&amp;nbsp;&lt;div&gt;for repeated testing&lt;div&gt;on workflow session&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-39" value="modify Template&amp;nbsp;&lt;div&gt;for repeated testing&lt;div&gt;on workflow session&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="313" y="690" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-41" target="JbX5V0x0gcHXLJH44q79-43">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-41" target="JbX5V0x0gcHXLJH44q79-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-41" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;staging&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-41" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;staging&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-43" target="JbX5V0x0gcHXLJH44q79-45">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-43" target="JbX5V0x0gcHXLJH44q79-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-43" value="&lt;div&gt;production&lt;/div&gt;&lt;b&gt;checking it is fixed by Dev properly&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-43" value="&lt;div&gt;production&lt;/div&gt;&lt;b&gt;checking it is fixed by Dev properly&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-45" value="completed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-45" value="completed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-47" value="CM -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;features working&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;e.g. option selection on dashboard&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="545" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-47" value="CM -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;features working&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;e.g. option selection on dashboard&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="897" y="545" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-48" value="CA - robustness&lt;div&gt;&amp;nbsp;e.g. off application in the middle of test&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-48" value="CA - robustness&lt;div&gt;&amp;nbsp;e.g. off application in the middle of test&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="897" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-49" value="RA - features working" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="635" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-49" value="RA - features working" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="897" y="635" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-50" value="WelA - robustness on device" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="375" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-50" value="WelA - robustness on device" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="897" y="375" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-55" value="WA - robustness on device" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="285" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-55" value="WA - robustness on device" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="897" y="285" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-56" target="JbX5V0x0gcHXLJH44q79-6">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-56" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-56" value="5. on iOS and Android" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="635" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-56" value="5. on iOS and Android" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="667" y="635" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-60" target="JbX5V0x0gcHXLJH44q79-6">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-60" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-60" value="4. stability on device&lt;div&gt;e.g. off in the middle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="550" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-60" value="4. stability on device&lt;div&gt;e.g. off in the middle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="667" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JbX5V0x0gcHXLJH44q79-63" target="JbX5V0x0gcHXLJH44q79-6">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-63" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="375" as="targetPoint" />
+            <mxPoint x="557" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-63" value="6. same rendering on btw web and app" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="725" width="120" height="80" as="geometry" />
+        <mxCell id="JbX5V0x0gcHXLJH44q79-63" value="6. same rendering on btw web and app" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="667" y="725" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LAstCRpf1LbIBudLaCeh-1" value="Bug Schedule" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="140" height="510" as="geometry">
+            <mxRectangle x="60" y="190" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAstCRpf1LbIBudLaCeh-2" value="production schedule" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="290" width="500" height="220" as="geometry">
+            <mxRectangle x="60" y="190" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbX5V0x0gcHXLJH44q79-8" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;This week tasks&amp;nbsp;&lt;/div&gt;&lt;div&gt;for Dev&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LAstCRpf1LbIBudLaCeh-2" vertex="1">
+          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbX5V0x0gcHXLJH44q79-13" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Next week task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LAstCRpf1LbIBudLaCeh-2" vertex="1">
+          <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbX5V0x0gcHXLJH44q79-11" value="Asana -&amp;nbsp;&lt;div&gt;Weekly scrum -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Past week task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="LAstCRpf1LbIBudLaCeh-2" vertex="1">
+          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JbX5V0x0gcHXLJH44q79-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LAstCRpf1LbIBudLaCeh-2" source="JbX5V0x0gcHXLJH44q79-13" target="JbX5V0x0gcHXLJH44q79-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JbX5V0x0gcHXLJH44q79-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LAstCRpf1LbIBudLaCeh-2" source="JbX5V0x0gcHXLJH44q79-8" target="JbX5V0x0gcHXLJH44q79-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LAstCRpf1LbIBudLaCeh-3" value="&lt;ol class=&quot;ProsemirrorEditor-list&quot; data-pm-slice=&quot;3 3 []&quot;&gt;&lt;li class=&quot;ProsemirrorEditor-listItem&quot; data-list-indent=&quot;2&quot; data-list-type=&quot;numbered&quot; style=&quot;margin-left: 64px&quot;&gt;&lt;p&gt;stability on production &lt;u&gt;before demonstration&lt;/u&gt; for sales&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;ProsemirrorEditor-listItem&quot; data-list-indent=&quot;2&quot; data-list-type=&quot;numbered&quot; style=&quot;margin-left: 64px&quot;&gt;&lt;p&gt;planned release on production for production schedule&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;ProsemirrorEditor-listItem&quot; data-list-indent=&quot;2&quot; data-list-type=&quot;numbered&quot; style=&quot;margin-left: 64px&quot;&gt;&lt;p&gt;significant feature release on &lt;u&gt;staging&lt;/u&gt; for dev team demand&lt;/p&gt;&lt;/li&gt;&lt;li class=&quot;ProsemirrorEditor-listItem&quot; data-list-indent=&quot;2&quot; data-list-type=&quot;numbered&quot; style=&quot;margin-left: 64px&quot;&gt;&lt;p&gt;testing planned on production by own&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="50" width="450" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LAstCRpf1LbIBudLaCeh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LAstCRpf1LbIBudLaCeh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LAstCRpf1LbIBudLaCeh-4" value="3. check on feature list in project unit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

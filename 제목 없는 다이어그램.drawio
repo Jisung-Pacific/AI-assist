@@ -229,7 +229,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7HSRlHR4gXXqBE1x2V-2-6" value="" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry y="40" width="970" height="780" as="geometry" />
+          <mxGeometry x="40" y="30" width="930" height="780" as="geometry" />
         </mxCell>
         <mxCell id="7HSRlHR4gXXqBE1x2V-2-7" value="" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="-530" y="650" width="340" height="140" as="geometry" />

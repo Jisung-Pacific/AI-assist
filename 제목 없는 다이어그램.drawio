@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="페이지-1" id="lsmF7glBvUfCy3_ZdIS1">
-    <mxGraphModel dx="2795" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2549" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="JbX5V0x0gcHXLJH44q79-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-16" target="JbX5V0x0gcHXLJH44q79-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-16" value="feature -&lt;div&gt;Jake feature scheduling&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-16" value="feature -&lt;div&gt;PM,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;jake&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;feature scheduling&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JbX5V0x0gcHXLJH44q79-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JbX5V0x0gcHXLJH44q79-18" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
@@ -52,7 +52,7 @@
         <mxCell id="JbX5V0x0gcHXLJH44q79-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-19" target="JbX5V0x0gcHXLJH44q79-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-19" value="test planning -&lt;div&gt;Jake assign testing scope&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-19" value="test planning -&lt;div&gt;PM, Jake assign testing scope&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JbX5V0x0gcHXLJH44q79-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-20" target="JbX5V0x0gcHXLJH44q79-19" edge="1">
@@ -63,7 +63,7 @@
         <mxCell id="hVILTEhqnvdazQHYM894-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-20" target="JbX5V0x0gcHXLJH44q79-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JbX5V0x0gcHXLJH44q79-20" value="&lt;div&gt;Jake&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JbX5V0x0gcHXLJH44q79-20" value="&lt;div&gt;PM&lt;/div&gt;&lt;div&gt;jake&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-440" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JbX5V0x0gcHXLJH44q79-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JbX5V0x0gcHXLJH44q79-25" target="JbX5V0x0gcHXLJH44q79-6" edge="1">

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.15">
   <diagram name="Page-1" id="Hy2vvEPhiLFZXEriCHXn">
-    <mxGraphModel dx="1653" dy="2816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="2907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,18 +409,18 @@
           <mxGeometry x="930" y="-920" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-1" value="QAI chief staff: decision making support by&lt;div&gt;self managed GraphRAG based agentic AI with Quamtum Machine Learinng&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="-2130" width="310" height="60" as="geometry" />
+          <mxGeometry x="-265" y="-2130" width="415" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-8" target="nwHGVSUxUNPrZd4JYzf0-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-200" y="-1811" as="targetPoint" />
+            <mxPoint x="-195" y="-1858" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-2" target="nwHGVSUxUNPrZd4JYzf0-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-2" value="Quantum Machine Learning&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-1783.5" width="70" height="53" as="geometry" />
+          <mxGeometry x="-265" y="-1835.5" width="70" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-4" target="nwHGVSUxUNPrZd4JYzf0-9">
           <mxGeometry relative="1" as="geometry" />
@@ -438,52 +438,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-4" value="Large&amp;nbsp;&lt;div&gt;Language&lt;/div&gt;&lt;div&gt;Model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="5" y="-1900" width="60" height="53" as="geometry" />
+          <mxGeometry x="-80" y="-1947" width="60" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-7" value="Knowledge&amp;nbsp;&lt;div&gt;Graph&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-1900" width="70" height="40" as="geometry" />
+          <mxGeometry x="-265" y="-1935.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-8" value="Large&amp;nbsp;&lt;div&gt;Language&lt;/div&gt;&lt;div&gt;Model&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="-1983" width="70" height="53" as="geometry" />
+          <mxGeometry x="-265" y="-2030" width="70" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-9" target="nwHGVSUxUNPrZd4JYzf0-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-9" value="Question- Answering&lt;div&gt;Task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="205" y="-1930" width="60" height="53" as="geometry" />
+          <mxGeometry x="100" y="-1977" width="60" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-10" value="&lt;div&gt;Settlement&amp;nbsp;&lt;/div&gt;Reporting&lt;div&gt;Task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="205" y="-1870" width="60" height="53" as="geometry" />
+          <mxGeometry x="100" y="-1917" width="60" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-11" value="&lt;div&gt;Decision Making&amp;nbsp;&lt;/div&gt;&lt;div&gt;support&lt;/div&gt;&lt;div&gt;Task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="205" y="-1810" width="60" height="53" as="geometry" />
+          <mxGeometry x="100" y="-1857" width="60" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-12" value="&lt;div&gt;Anomaly&amp;nbsp;&lt;/div&gt;&lt;div&gt;Detection&lt;/div&gt;&lt;div&gt;Alerting&lt;/div&gt;&lt;div&gt;Task&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="205" y="-1750" width="60" height="53" as="geometry" />
+          <mxGeometry x="100" y="-1797" width="60" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-50" y="-1792" width="170" height="77" as="geometry" />
+          <mxGeometry x="-135" y="-1839" width="170" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="nwHGVSUxUNPrZd4JYzf0-17" value="Secure data store&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
-          <mxGeometry width="170" height="70" as="geometry" />
+        <mxCell id="nwHGVSUxUNPrZd4JYzf0-17" value="Secure &amp;amp; Private data store&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
+          <mxGeometry width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-3" value="Knowledge&amp;nbsp;&lt;div&gt;Graph&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
-          <mxGeometry x="10" y="21" width="70" height="43" as="geometry" />
+          <mxGeometry x="10" y="24" width="70" height="29" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-5" value="&lt;div&gt;Vector&lt;/div&gt;&lt;div&gt;D&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;B&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
-          <mxGeometry x="100" y="21" width="60" height="43" as="geometry" />
+          <mxGeometry x="100" y="24" width="60" height="29" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-7" target="nwHGVSUxUNPrZd4JYzf0-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-155" y="-1786" as="targetPoint" />
-            <mxPoint x="-160" y="-1847" as="sourcePoint" />
+            <mxPoint x="-150" y="-1833" as="targetPoint" />
+            <mxPoint x="-155" y="-1894" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-23" target="nwHGVSUxUNPrZd4JYzf0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-23" value="User&lt;div&gt;Prompting&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="5" y="-1983" width="60" height="30" as="geometry" />
+          <mxGeometry x="-80" y="-2030" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

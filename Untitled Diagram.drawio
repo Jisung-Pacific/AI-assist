@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.5">
   <diagram name="Page-1" id="Hy2vvEPhiLFZXEriCHXn">
-    <mxGraphModel dx="2610" dy="3381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="2755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,8 +405,8 @@
         <mxCell id="n3k5qM4h6HF46HVWA2fp-1" value="&lt;div&gt;Expressjs&lt;/div&gt;&lt;div&gt;Nextjs - secureassist&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="930" y="-920" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z6H-9LFwwa-lINycJ68F-1" value="&lt;div&gt;backend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="-2230" width="120" height="50" as="geometry" />
+        <mxCell id="z6H-9LFwwa-lINycJ68F-1" value="Quantum AI chief staff: decision making support by Multi-hop KG RAR based Quantum Agentic AI" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-2230" width="450" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -408,7 +408,7 @@
         <mxCell id="n3k5qM4h6HF46HVWA2fp-1" value="&lt;div&gt;Expressjs&lt;/div&gt;&lt;div&gt;Nextjs - secureassist&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="930" y="-920" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nwHGVSUxUNPrZd4JYzf0-1" value="QAI chief staff: decision making support by&lt;div&gt;self managed GraphRAG based agentic AI with Quamtum Machine Learinng&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="nwHGVSUxUNPrZd4JYzf0-1" value="Quantum AI chief staff: decision making support by&lt;div&gt;self managed GraphRAG based agentic AI with Quamtum Machine Learinng&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="-265" y="-2130" width="415" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-8" target="nwHGVSUxUNPrZd4JYzf0-7">
@@ -420,7 +420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-2" value="Quantum Machine Learning&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="-1835.5" width="70" height="53" as="geometry" />
+          <mxGeometry x="-265" y="-1825.5" width="70" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-4" target="nwHGVSUxUNPrZd4JYzf0-9">
           <mxGeometry relative="1" as="geometry" />
@@ -462,16 +462,13 @@
           <mxGeometry x="100" y="-1797" width="60" height="53" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-135" y="-1839" width="170" height="77" as="geometry" />
+          <mxGeometry x="-135" y="-1839" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nwHGVSUxUNPrZd4JYzf0-17" value="Secure &amp;amp; Private data store&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
-          <mxGeometry width="170" height="60" as="geometry" />
+        <mxCell id="nwHGVSUxUNPrZd4JYzf0-17" value="Secure &amp;amp; Private data store&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
+          <mxGeometry width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nwHGVSUxUNPrZd4JYzf0-3" value="Knowledge&amp;nbsp;&lt;div&gt;Graph&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
-          <mxGeometry x="10" y="24" width="70" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="nwHGVSUxUNPrZd4JYzf0-5" value="&lt;div&gt;Vector&lt;/div&gt;&lt;div&gt;D&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;B&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
-          <mxGeometry x="100" y="24" width="60" height="29" as="geometry" />
+        <mxCell id="nwHGVSUxUNPrZd4JYzf0-5" value="&lt;div&gt;Vectorised&lt;/div&gt;&lt;div&gt;Knowledge&amp;nbsp;&lt;/div&gt;&lt;div&gt;Graph&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="nwHGVSUxUNPrZd4JYzf0-19">
+          <mxGeometry x="55" y="17" width="60" height="46" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nwHGVSUxUNPrZd4JYzf0-7" target="nwHGVSUxUNPrZd4JYzf0-2">
           <mxGeometry relative="1" as="geometry">

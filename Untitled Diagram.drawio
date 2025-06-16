@@ -485,6 +485,9 @@
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-23" value="User&lt;div&gt;Prompting&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-2030" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nwHGVSUxUNPrZd4JYzf0-26" value="Resource management" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-2130" width="415" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

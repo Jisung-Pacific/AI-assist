@@ -408,7 +408,7 @@
         <mxCell id="n3k5qM4h6HF46HVWA2fp-1" value="&lt;div&gt;Expressjs&lt;/div&gt;&lt;div&gt;Nextjs - secureassist&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="930" y="-920" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nwHGVSUxUNPrZd4JYzf0-1" value="Quantum Agent chief staff: decision making support by&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quamtum Agent based on&amp;nbsp;&lt;/span&gt;self managed KG Multi-hop RAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
+        <mxCell id="nwHGVSUxUNPrZd4JYzf0-1" value="&lt;div&gt;Quantum AI agent secretary: Decision Making Support by KG Multi-hop&lt;/div&gt;&lt;div&gt;RAR based Hybrid Quantum AI agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="-265" y="-2130" width="415" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nwHGVSUxUNPrZd4JYzf0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nwHGVSUxUNPrZd4JYzf0-8" target="nwHGVSUxUNPrZd4JYzf0-7" edge="1">

@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="Hy2vvEPhiLFZXEriCHXn">
-    <mxGraphModel dx="6873" dy="4423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5685" dy="3728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1067,7 +1067,7 @@
             <mxPoint x="-2850" y="1210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ilAk38CzfAtwDPla0q6d-101" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;초안&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="ilAk38CzfAtwDPla0q6d-101" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;concept, setup, result&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-2830" y="1270" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ilAk38CzfAtwDPla0q6d-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="ilAk38CzfAtwDPla0q6d-103" source="ilAk38CzfAtwDPla0q6d-94">
@@ -1075,7 +1075,7 @@
             <mxPoint x="-2850" y="1125" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ilAk38CzfAtwDPla0q6d-103" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;초안&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="ilAk38CzfAtwDPla0q6d-103" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;introduction, background, dicussion, conclusion 확정&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-2830" y="1185" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ilAk38CzfAtwDPla0q6d-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="ilAk38CzfAtwDPla0q6d-105" source="ilAk38CzfAtwDPla0q6d-94">
@@ -1083,11 +1083,29 @@
             <mxPoint x="-2850" y="1125" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ilAk38CzfAtwDPla0q6d-105" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;초안&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="ilAk38CzfAtwDPla0q6d-105" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;reference, 마무리&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-2830" y="1365" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ilAk38CzfAtwDPla0q6d-106" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;실험 설계 및 논문 작업&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-2960" y="190" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ilAk38CzfAtwDPla0q6d-107" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;기존 방법론 재현&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-2960" y="380" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ilAk38CzfAtwDPla0q6d-108" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;hippoRAG, plan on graph....&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-2481" y="380" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ilAk38CzfAtwDPla0q6d-109" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;그냥 재일 잘나오는거 해놓고 이름 붙이기&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-2960" y="450" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ilAk38CzfAtwDPla0q6d-110" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;tridant&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-2481" y="450" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ilAk38CzfAtwDPla0q6d-111" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;poisoning 추가하기&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-2960" y="520" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ilAk38CzfAtwDPla0q6d-112" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;graph poisoning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-2481" y="520" width="340" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

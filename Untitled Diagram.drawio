@@ -1177,7 +1177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="foywzZe59yl9P6mC4tTp-1" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;scoping&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="6310" y="-2090" width="230" height="110" as="geometry" />
+          <mxGeometry x="5900" y="-2200" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="foywzZe59yl9P6mC4tTp-2" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;fine tuning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="6295" y="-899" width="230" height="110" as="geometry" />
@@ -1221,11 +1221,11 @@
         <mxCell id="foywzZe59yl9P6mC4tTp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foywzZe59yl9P6mC4tTp-13" target="foywzZe59yl9P6mC4tTp-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="foywzZe59yl9P6mC4tTp-13" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;graph rag&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="7120" y="-1250" width="230" height="110" as="geometry" />
+        <mxCell id="foywzZe59yl9P6mC4tTp-13" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;graph rag&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7080" y="-1290" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="foywzZe59yl9P6mC4tTp-16" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;poisoning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="7550" y="-1250" width="230" height="110" as="geometry" />
+        <mxCell id="foywzZe59yl9P6mC4tTp-16" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;poisoning&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7510" y="-1290" width="230" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

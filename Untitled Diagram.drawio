@@ -1185,6 +1185,9 @@
         <mxCell id="foywzZe59yl9P6mC4tTp-3" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;model training&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="6025" y="-894" width="230" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="foywzZe59yl9P6mC4tTp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="foywzZe59yl9P6mC4tTp-4" target="foywzZe59yl9P6mC4tTp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="foywzZe59yl9P6mC4tTp-4" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;knowledge graph&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;vector&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="6915" y="-1685" width="230" height="110" as="geometry" />
         </mxCell>
@@ -1195,7 +1198,10 @@
           <mxGeometry x="6295" y="-759" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="foywzZe59yl9P6mC4tTp-7" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;brain inspired&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="6920" y="-1510" width="230" height="110" as="geometry" />
+          <mxGeometry x="6920" y="-1938.5" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="foywzZe59yl9P6mC4tTp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="foywzZe59yl9P6mC4tTp-8" target="foywzZe59yl9P6mC4tTp-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="foywzZe59yl9P6mC4tTp-8" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;typical model&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 27px;&quot;&gt;- llama, gpt oss&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="6915" y="-878" width="230" height="110" as="geometry" />
@@ -1211,6 +1217,15 @@
         </mxCell>
         <mxCell id="foywzZe59yl9P6mC4tTp-12" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;benchmark&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="6280" y="-329" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="foywzZe59yl9P6mC4tTp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="foywzZe59yl9P6mC4tTp-13" target="foywzZe59yl9P6mC4tTp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="foywzZe59yl9P6mC4tTp-13" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;graph rag&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7120" y="-1250" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="foywzZe59yl9P6mC4tTp-16" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;poisoning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;align=left;fontSize=8;strokeColor=default;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="7550" y="-1250" width="230" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
